@@ -1,0 +1,77 @@
+\contentsline {section}{\numberline {1}Scattering}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Suggested References}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Basic Setup}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Applications}{4}{subsubsection.1.2.1}
+\contentsline {subsection}{\numberline {1.3}Scattering Approach to ${e^-}$ Transport in solids}{4}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Setup}{4}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Rolf Landauer's Theory (Landauer Transport Theory)}{4}{subsubsection.1.3.2}
+\contentsline {paragraph}{Toy Model}{4}{section*.2}
+\contentsline {paragraph}{Landauer Formula}{6}{section*.3}
+\contentsline {paragraph}{Fermi Wave Number}{7}{section*.5}
+\contentsline {paragraph}{Linear Response}{7}{section*.6}
+\contentsline {subsubsection}{\numberline {1.3.3}Some Comments}{8}{subsubsection.1.3.3}
+\contentsline {subsection}{\numberline {1.4}Inelastic Scattering}{8}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Setup and Notation}{8}{subsubsection.1.4.1}
+\contentsline {paragraph}{Density Operator}{8}{section*.7}
+\contentsline {paragraph}{Rewriting the Interaction Potential}{9}{section*.8}
+\contentsline {subsubsection}{\numberline {1.4.2}Modeling Scattering}{9}{subsubsection.1.4.2}
+\contentsline {paragraph}{Fermi's Golden Rule}{9}{section*.9}
+\contentsline {paragraph}{Dynamical Structure Factor}{10}{section*.10}
+\contentsline {paragraph}{Thermal Targets}{11}{section*.11}
+\contentsline {paragraph}{Some Comments}{11}{section*.12}
+\contentsline {subsubsection}{\numberline {1.4.3}Scattering Examples}{12}{subsubsection.1.4.3}
+\contentsline {paragraph}{Light Scattering}{12}{section*.13}
+\contentsline {paragraph}{Electron Scattering}{12}{section*.14}
+\contentsline {paragraph}{Neutrons}{12}{section*.15}
+\contentsline {section}{\numberline {2}Quantum Hall Effect}{12}{section.2}
+\contentsline {subsection}{\numberline {2.1}References}{12}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Flavors of the Quantum Hall Effect}{12}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Basic Setup}{12}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Integer Quantum Hall Effect}{13}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Fractional Quantum Hall Effect}{13}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Details of the Quantum Hall Effect}{13}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Impurity Scattering}{14}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Integer Quantum Hall Effect}{15}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Landau Levels}{15}{subsubsection.2.4.3}
+\contentsline {subsubsection}{\numberline {2.4.4}Edge Effects in the Integer Quantum Hall Effect}{17}{subsubsection.2.4.4}
+\contentsline {subsubsection}{\numberline {2.4.5}Fractional Quantum Hall Effect}{19}{subsubsection.2.4.5}
+\contentsline {paragraph}{Coulomb Interactions}{19}{section*.16}
+\contentsline {paragraph}{Non-Interacting Electrons in the Radial Gauge}{19}{section*.17}
+\contentsline {paragraph}{The Many-Body Wave Function}{20}{section*.18}
+\contentsline {paragraph}{Electron Density}{20}{section*.19}
+\contentsline {section}{\numberline {3}Feynman Path Integrals}{20}{section.3}
+\contentsline {subsection}{\numberline {3.1}Suggested References}{20}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Benefits of Feynman Path Integrals}{21}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Lightning Review of Classical Mechanics}{21}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Hamilton-Jacobi Equations}{21}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Quantum Mechanics in Schr\"odinger and Heisenberg Pictures}{21}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Lagrangian Classical Mechanics}{22}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Principle of Least Action}{22}{subsubsection.3.3.4}
+\contentsline {paragraph}{Example: Free Particle}{23}{section*.20}
+\contentsline {subsubsection}{\numberline {3.3.5}Use of the Quantum Propagator}{23}{subsubsection.3.3.5}
+\contentsline {paragraph}{Example: Free Particle}{23}{section*.21}
+\contentsline {subsubsection}{\numberline {3.3.6}Imaginary Time Propagator}{23}{subsubsection.3.3.6}
+\contentsline {subsubsection}{\numberline {3.3.7}Brief Review of Missed Material}{24}{subsubsection.3.3.7}
+\contentsline {subsection}{\numberline {3.4}Aharonov-Bohm Effect}{24}{subsection.3.4}
+\contentsline {paragraph}{Parallel in Superconductivity}{26}{section*.22}
+\contentsline {subsection}{\numberline {3.5}Imaginary Time Path Integrals}{26}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Classical Limit of the Partition Function}{27}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Comparing Quantum and Classical Statistical Mechanics}{27}{subsubsection.3.5.2}
+\contentsline {subsection}{\numberline {3.6}Further Examples of Path Integrals}{28}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Tunneling of Particles in a Double-Well Potential}{28}{subsubsection.3.6.1}
+\contentsline {paragraph}{Instanton Gas Approximation}{30}{section*.23}
+\contentsline {subsubsection}{\numberline {3.6.2}Decay of a Particle in a Quasi-Stable Potential}{30}{subsubsection.3.6.2}
+\contentsline {section}{\numberline {4}Quantum Ising Model}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}Simplifying Limits}{31}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Small $J$}{31}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Small $h$}{32}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Phase Diagram}{33}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Particle Excitations}{34}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}First Order Degenerate Perturbation Theory}{34}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Particle Creation and Annihilation Operators}{35}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Second Order Degenerate Perturbation Theory}{35}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Full Effective Hamiltonian}{36}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Exact Solution to 1-D Transverse Ising Model}{36}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Quick Review}{36}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Finishing the Derivation}{37}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Limiting Cases}{38}{subsubsection.4.3.3}

@@ -1,0 +1,56 @@
+\BOOKMARK [1][-]{section.1}{Scattering}{}
+\BOOKMARK [2][-]{subsection.1.1}{Suggested References}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Basic Setup}{section.1}
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Applications}{subsection.1.2}
+\BOOKMARK [2][-]{subsection.1.3}{Scattering Approach to e- Transport in solids}{section.1}
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Setup}{subsection.1.3}
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Rolf Landauer's Theory \(Landauer Transport Theory\)}{subsection.1.3}
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Some Comments}{subsection.1.3}
+\BOOKMARK [2][-]{subsection.1.4}{Inelastic Scattering}{section.1}
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Setup and Notation}{subsection.1.4}
+\BOOKMARK [3][-]{subsubsection.1.4.2}{Modeling Scattering}{subsection.1.4}
+\BOOKMARK [3][-]{subsubsection.1.4.3}{Scattering Examples}{subsection.1.4}
+\BOOKMARK [1][-]{section.2}{Quantum Hall Effect}{}
+\BOOKMARK [2][-]{subsection.2.1}{References}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Flavors of the Quantum Hall Effect}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Basic Setup}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Integer Quantum Hall Effect}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Fractional Quantum Hall Effect}{subsection.2.3}
+\BOOKMARK [2][-]{subsection.2.4}{Details of the Quantum Hall Effect}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Impurity Scattering}{subsection.2.4}
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Integer Quantum Hall Effect}{subsection.2.4}
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Landau Levels}{subsection.2.4}
+\BOOKMARK [3][-]{subsubsection.2.4.4}{Edge Effects in the Integer Quantum Hall Effect}{subsection.2.4}
+\BOOKMARK [3][-]{subsubsection.2.4.5}{Fractional Quantum Hall Effect}{subsection.2.4}
+\BOOKMARK [1][-]{section.3}{Feynman Path Integrals}{}
+\BOOKMARK [2][-]{subsection.3.1}{Suggested References}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Benefits of Feynman Path Integrals}{section.3}
+\BOOKMARK [2][-]{subsection.3.3}{Lightning Review of Classical Mechanics}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Hamilton-Jacobi Equations}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Quantum Mechanics in Schr\366dinger and Heisenberg Pictures}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Lagrangian Classical Mechanics}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Principle of Least Action}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Use of the Quantum Propagator}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.6}{Imaginary Time Propagator}{subsection.3.3}
+\BOOKMARK [3][-]{subsubsection.3.3.7}{Brief Review of Missed Material}{subsection.3.3}
+\BOOKMARK [2][-]{subsection.3.4}{Aharonov-Bohm Effect}{section.3}
+\BOOKMARK [2][-]{subsection.3.5}{Imaginary Time Path Integrals}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Classical Limit of the Partition Function}{subsection.3.5}
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Comparing Quantum and Classical Statistical Mechanics}{subsection.3.5}
+\BOOKMARK [2][-]{subsection.3.6}{Further Examples of Path Integrals}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.6.1}{Tunneling of Particles in a Double-Well Potential}{subsection.3.6}
+\BOOKMARK [3][-]{subsubsection.3.6.2}{Decay of a Particle in a Quasi-Stable Potential}{subsection.3.6}
+\BOOKMARK [1][-]{section.4}{Quantum Ising Model}{}
+\BOOKMARK [2][-]{subsection.4.1}{Simplifying Limits}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Small J}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Small h}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Phase Diagram}{subsection.4.1}
+\BOOKMARK [2][-]{subsection.4.2}{Particle Excitations}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.2.1}{First Order Degenerate Perturbation Theory}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Particle Creation and Annihilation Operators}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Second Order Degenerate Perturbation Theory}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Full Effective Hamiltonian}{subsection.4.2}
+\BOOKMARK [2][-]{subsection.4.3}{Exact Solution to 1-D Transverse Ising Model}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Quick Review}{subsection.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Finishing the Derivation}{subsection.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Limiting Cases}{subsection.4.3}
